@@ -21,10 +21,5 @@ javac AtmDemo.java
 java AtmDemo
 ```
 
-Use the corresponding `.java` filename in each task folder. Task 7 reads its sample records from `Task07/input/`; run it from the project root or adjust the working directory as described in the source comments.
 
-## GitHub submission
 
-Create this student's separate GitHub repository and push this folder's contents. Add the repository URL to the Word report. The two repository copies contain the same team implementation; each student should verify the files, add their own commit history, and retain only genuine execution evidence.
-
-**Execution evidence note:** text output and compilation records are included. They are not represented as personal desktop screenshots. Capture screenshots from your own Java environment before submission if the assignment requires them.
