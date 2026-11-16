@@ -1,7 +1,7 @@
 # Assignment 3 – CO3
 
-**Student:** B Santhosh Kumar
-**Register Number:** 192511053
+**Student:** B Santhosh Kumar and Deepak Kumar A
+**Register Number:** 192511053 and 192524422
 **Course:** Programming in Java
 
 This repository copy contains the team's Assignment 3 implementation for all seven questions.
